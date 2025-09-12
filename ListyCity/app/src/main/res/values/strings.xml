@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListyCity</string>
+
+    <!-- buttons -->
+    <string name="btn_add_city">ADD CITY</string>
+    <string name="btn_delete_city">DELETE CITY</string>
+
+    <!-- add dialog  -->
+    <string name="confirm">CONFIRM</string>
+    <string name="hint_city_name">City name</string>
+</resources>
